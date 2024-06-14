@@ -1,3 +1,7 @@
+<img width="471" alt="image" src="https://github.com/benschac/wagmi-test/assets/2502947/bed3897a-e2a3-4db6-bdc0-fe50386571fb">
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
